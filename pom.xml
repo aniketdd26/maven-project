@@ -12,7 +12,7 @@
   <url>http://www.example.com</url>
 
 
-<!-- I have made changes in POM.xml to see if it works --->
+<!-- I have made changes in POM.xml to see if it works -->
   <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
